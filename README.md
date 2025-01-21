@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+## PawfectPartner
+
+This is a pet adoption website where you can browse a selection of your favourite pets and choose your own partner. Login and signup authentication is incorporated in the website as well using token based authentication.
+
+## Tech Stack
+
+Next.js framework
+Tailwind CSS for styling
+Typescript
+Node.js for backend
+Express.js
+MongoDB as Database
+
 ## Getting Started
 
 First, run the development server:
@@ -8,17 +21,10 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
 
